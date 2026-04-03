@@ -1,1 +1,1 @@
-Homeworks of Cloud services in web development course
+Homeworks of the course *Cloud services in web development*.
