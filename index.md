@@ -1,4 +1,3 @@
-## TEHTÄVÄ 2 
 Tervetuloa GitHub pages-sivustolleni
 
 Tehtävien palautukset:
