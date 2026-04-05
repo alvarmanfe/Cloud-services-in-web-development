@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa Sivustolle!
-theme: jekyll-theme-Cayman
+theme: jekyll-theme-cayman
 
 header_pages:
   - index.md
