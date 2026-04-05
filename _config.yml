@@ -3,7 +3,7 @@ description: Tervetuloa Sivustolle!
 theme: jekyll-theme-Cayman
 
 header_pages:
-  - index.m
+  - index.md
   - viikko2.md
 
   github_username: alvarmanfe
