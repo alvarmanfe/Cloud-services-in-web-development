@@ -1,7 +1,9 @@
 title: Jekyll:iä käyttävä sivusto
-description: Tervetuloa Sivustolle!
+description: Tervetuloa sivustolle!
 theme: jekyll-theme-cayman
 
 header_pages:
+- index.md
+- viikko
 
-  github_username: alvarmanfe
+github_username: alvarmanfe
