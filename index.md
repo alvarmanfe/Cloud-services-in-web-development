@@ -1,6 +1,6 @@
-Tervetuloa GitHub pages-sivustolleni
+## Tervetuloa GitHub pages-sivustolleni
 
-Tehtävien palautukset:
+Täältä löytyvät tehtäväpalautukset:
 
 - [Viikko 1]()
 - [Viikko 2]()
